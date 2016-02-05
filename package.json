@@ -1,6 +1,6 @@
 {
   "name": "react-create-provider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates a provider that can be used to dependency inject properties into the React context",
   "main": "./dist/index.js",
   "scripts": {

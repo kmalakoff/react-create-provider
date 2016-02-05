@@ -1,0 +1,27 @@
+{
+  "name": "react-create-provider",
+  "version": "1.0.0",
+  "description": "Creates a provider that can be used to dependency inject properties into the React context",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmalakoff/react-create-provider.git"
+  },
+  "author": "Kevin Malakoff <kmalakoff@gmail.com> (https://github.com/kmalakoff)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmalakoff/react-create-provider/issues"
+  },
+  "homepage": "https://github.com/kmalakoff/react-create-provider#readme",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13"
+  },
+  "dependencies": {
+    "react": "*"
+  }
+}
